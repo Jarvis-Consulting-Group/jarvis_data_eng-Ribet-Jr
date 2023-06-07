@@ -1,0 +1,7 @@
+echo "# jarvis_data_eng-Ribet-Jr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Ribet-Jr.git
+git push -u origin main
